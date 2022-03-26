@@ -22,33 +22,36 @@
 
     <h4 id="map-text"><i>Apartment Price Forecasting Service<br>
         (예: 고양시 덕양구 덕은동에서 2032년에 85㎡인 아파트의 가격은 얼마인지)</i></h4>
-    <div id="combo">
-        <select onchange="categoryChange(this)">
-            <option>구를 선택해주세요</option>
-            <option value="a">덕양구</option>
-            <option value="b">일산동구</option>
-            <option value="c">일산서구</option>
-        </select>
 
-        <br><br>
-        <select id="goo">
-        <option>동을 선택해주세요</option>
-        </select>
+    <form action="" method="post">
+        <div id="combo">
+            <select onchange="categoryChange(this)">
+                <option>구를 선택해주세요</option>
+                <option value="a">덕양구</option>
+                <option value="b">일산동구</option>
+                <option value="c">일산서구</option>
+            </select>
 
-    </div>
+            <br><br>
+            <select id="goo">
+            <option>동을 선택해주세요</option>
+            </select>
 
-    <br>
+        </div>
 
-    <div id="input-text">
-        <input type="text" Placeholder="년도 (예: 2032)">
-        <br><br>
-        <input type="text" Placeholder="전용면적 (예: 85)">
-    </div>
+        <br>
 
-    <br>
-    <div id="submit">
-        <input type="submit" value="Submit">
-    </div>
+        <div id="input-text">
+            <input type="text" Placeholder="년도 (예: 2032)">
+            <br><br>
+            <input type="text" Placeholder="전용면적 (예: 85)">
+        </div>
+
+        <br>
+        <div id="submit">
+            <input type="submit" value="Submit">
+        </div>
+    </form>
 
 
     <script>
