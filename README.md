@@ -1,1 +1,1 @@
-# webpublishing
+# web-publishing
