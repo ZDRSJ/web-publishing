@@ -17,19 +17,7 @@
 
 ㄴ 🗂 image
 
-ㄴ 🗳 contact.html
-
-ㄴ 🗳 dashboard.html
-
-ㄴ 🗳 feedback.html
-
-ㄴ 🗳 index.html
-
-ㄴ 🗳 map.html
-
-ㄴ 🗳 predict.html
-
-ㄴ 🗳 result.html
+ㄴ 🗳 .html
 
 
 ## 📍 세부 설명
