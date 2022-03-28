@@ -3,6 +3,34 @@
 ## ⚙️ Stack & Tool used
     - html & css & javascript
     - visual studio code, procreate
+---
+📂 Directory Structure
+---
+
+🗂 homefront
+
+ㄴ 🗂 contact
+
+ㄴ 🗂 css
+
+    ㄴ 🗳 styles.css
+
+ㄴ 🗂 image
+
+ㄴ 🗳 contact.html
+
+ㄴ 🗳 dashboard.html
+
+ㄴ 🗳 feedback.html
+
+ㄴ 🗳 index.html
+
+ㄴ 🗳 map.html
+
+ㄴ 🗳 predict.html
+
+ㄴ 🗳 result.html
+
 
 ## 📍 세부 설명
 ### 1. main page
