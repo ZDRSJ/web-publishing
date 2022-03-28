@@ -3,7 +3,7 @@
 ## ⚙️ Stack & Tool used
     - html & css & javascript
     - visual studio code, procreate
----
+
 📂 Directory Structure
 ---
 
